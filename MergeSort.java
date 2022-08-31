@@ -1,6 +1,3 @@
-// Osman Tosun, 02200201031,1.Grup
-
-
 package recursion;
 
 public class MergeSort {
